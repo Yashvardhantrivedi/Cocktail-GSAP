@@ -54,7 +54,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/vanshsuri07/Cocktails-GSAP.git
+git clone https://github.com/Yashvardhantrivedi/Cocktail-GSAP
 cd Cocktails-GSAP
 ```
 
@@ -80,7 +80,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## 🙋‍♂️ Author
 
-Your Name – @vanshsuri07
+Your Name – @Yashvardhantrivedi
 
 Feel free to reach out or contribute!
 
